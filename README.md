@@ -33,3 +33,6 @@ This is an exploratory data analysis of craft beers and breweries in the United 
 **City:** City where the brewery is located.
 
 **State:** U.S. State where the brewery is located.
+
+## Link to Video Presentation
+https://www.youtube.com/watch?v=VVhFkVwtyMY
