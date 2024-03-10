@@ -34,5 +34,7 @@ This is an exploratory data analysis of craft beers and breweries in the United 
 
 **State:** U.S. State where the brewery is located.
 
+*** RStudio 2023.12.1 used for analysis
+
 ## Link to Video Presentation
 https://www.youtube.com/watch?v=VVhFkVwtyMY
